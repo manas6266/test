@@ -1,0 +1,22 @@
+.gridc {
+  display: grid;
+  grid-column-gap: 50px;
+  grid-template-columns: auto auto auto;
+ 
+  padding: 10px;
+}
+
+.gridi {
+  background-color: rgba(255, 255, 255, 0.8);
+  border: 1px solid rgba(0, 0, 0, 0.8);
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
+}
+.Imh{
+	height:100%;
+	width:100%;
+}
+.kh{
+	transition: width 1s,height 2s;
+}
